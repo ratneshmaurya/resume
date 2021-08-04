@@ -1,0 +1,72 @@
+{
+	"basics": {
+		"name": "Ratnesh Maurya",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/59445236?v=4",
+		"email": "2019kucp1006@iiitkota.ac.in",
+		"phone": "9369508740",
+		"website": "",
+		"summary": "Pursuing BTech in Computer Science and Engineering at IIIT Kota(Mnit-Jaipur _campus). Optimistic , Enthusiastic and Passionate about the field of Computer Science.",
+		"location": {
+			"address": "Asha Apartment ,Bazariya ,Railway Road",
+			"postalCode": "201001",
+			"city": "Ghaziabad",
+			"countryCode": "India",
+			"region": "UP"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "ratneshmaurya",
+				"url": "https://github.com/ratneshmaurya"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ratnesh Maurya",
+				"url": "https://www.linkedin.com/in/ratnesh-maurya-006854196/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_a.believer._",
+				"url": "https://www.instagram.com/_a.believer._/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "",
+		"studyType": "Bachelor Of Technology",
+		"startDate": "2019-04-08",
+		"endDate": "2023-00-06",
+		"gpa": "8.44",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	},
+		     {
+		"institution": "Ch. Chabbil Dass Public School",
+		"area": "",
+		"studyType": "Senior Secondary Education",
+		"startDate": "2016-00-04",
+		"endDate": "2018-00-03",
+		"gpa": "91.2%",
+		"courses": [
+			"PCM With Computer Science"
+		]
+	}
+		     ],
+	"achievements": [{
+		"title": "Second Prize in CS Coding Competition",
+		"awarder": "awarded by Principal,CCDPS Ghaziabad",
+		"date": "2018"
+	}],
+	"skills": [{
+		"level": "",
+		"keywords": ["C++","C","HTML", "CSS", "Javascript", "React" , "Material-UI","Git","MySQL","Axios","Java-Beginner","MS-word","MS-excel"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess","Cricket","Carrom", "Badminton"]
+	}],
+	"references": []
+}
